@@ -1,0 +1,38 @@
+
+.code {
+    font-family: 'Courier', monospace;
+}
+
+body {
+    font-family: 'Courier', monospace;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #fcfbf4;
+    /* text-align: center; */
+    text-align: justify;
+    text-justify: inter-word;
+
+}
+.container {
+    max-width: 350px;
+    width: 100%;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+h1 {
+    text-align: center;
+}
+
+.text-block {
+    margin-top: 20px;
+    max-width: 100%;
+}
+.centered-link {
+    text-align: center;
+}
